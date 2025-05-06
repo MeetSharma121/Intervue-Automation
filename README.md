@@ -7,6 +7,7 @@ This project contains a Selenium automation script designed to test the Intervue
 The automation script is built using Selenium WebDriver with Node.js, enabling browser automation for testing purposes. It covers key user actions such as logging in, searching, navigating the dashboard, and logging out, ensuring the core functionalities of the site work as expected.
 
 ## Video Demo Section 🎥
+https://drive.google.com/file/d/1b0atLNZiyMJ-UdTLORsRDrsX4O8TdHVj/view?usp=share_link
 
 Running the script locally provides a video-like demo of the automation flow, showcasing:
 
@@ -22,6 +23,7 @@ Running the script locally provides a video-like demo of the automation flow, sh
 - Hovering over menu items like Products, Solutions, and Resources
 
 This visual demonstration helps in understanding the user experience and verifying UI elements.
+
 
 ## Tech Stack 🛠️
 
